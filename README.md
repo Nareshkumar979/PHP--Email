@@ -1,2 +1,2 @@
-# PHP--Email
-This repository contains the PHP Email Code 
+# PHP-Email-Code
+This repository contains the PHP Function for Sending the Email from our application. 
